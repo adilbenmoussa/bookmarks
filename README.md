@@ -9,6 +9,7 @@ collect all bookmarks and interesting links
 
 ### Github
  * [Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
+ * reset everything locally `git reset  --hard <last good SHA>`
  
 
 ### Useful commands
