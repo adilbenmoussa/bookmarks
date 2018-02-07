@@ -14,4 +14,5 @@ collect all bookmarks and interesting links
 
 ### Useful commands
  * update oh-my-zsh: ```source ~/.bash_profile```
+ * mssing id: `ssh-add ~/.ssh/id_rsa `
  
