@@ -22,4 +22,11 @@ collect all bookmarks and interesting links
  * update oh-my-zsh: ```source ~/.bash_profile```
  * mssing id: `ssh-add ~/.ssh/id_rsa `
  
+### Angular
+ * CLI downgrade: 
+ ```
+ npm uninstall -g @angular/cli
+ npm install -g @angular/cli@1.7.4 
+ ```
+ 
  
