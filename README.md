@@ -20,7 +20,7 @@ collect all bookmarks and interesting links
  
 
 ### Useful commands
- * update oh-my-zsh: ```source ~/.bash_profile```
+ * update oh-my-zsh: ```source ~/.zshrc```
  * mssing id: `ssh-add ~/.ssh/id_rsa `
  
 ### Angular
