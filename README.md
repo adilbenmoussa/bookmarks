@@ -30,4 +30,7 @@ collect all bookmarks and interesting links
  npm install -g @angular/cli@1.7.4 
  ```
  
+ ### Python
+ * Simple server: `python -m SimpleHTTPServer 4200`
+ 
  
