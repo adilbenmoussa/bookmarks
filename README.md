@@ -15,7 +15,7 @@ collect all bookmarks and interesting links
 ### Github
  * [Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
  * reset everything locally `git reset  --hard <last good SHA>`
- * `git add .` then `git commit -a  "my commit message"` and `git push`
+ * `git add .` then `git commit -m  "my commit message"` and `git push`
  * `git config --global url."https://".insteadOf git://`
  
 
