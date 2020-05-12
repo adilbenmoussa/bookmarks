@@ -19,6 +19,10 @@ collect all bookmarks and interesting links
  * `git config --global url."https://".insteadOf git://`
  * How to undo a Git commit that was not pushed `git reset --soft HEAD~;`
  
+ * Undo the commit but keep all changes staged => `git reset --soft HEAD~;`
+ * Undo the commit and unstage the changes => `git reset HEAD~;`
+ * Undo the commit and lose all changes => `git reset --hard HEAD~;`
+ 
 
 ### Useful commands
  * update oh-my-zsh: ```source ~/.zshrc```
