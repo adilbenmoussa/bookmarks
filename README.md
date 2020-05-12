@@ -17,7 +17,6 @@ collect all bookmarks and interesting links
  * reset everything locally `git reset  --hard <last good SHA>`
  * `git add .` then `git commit -m  "my commit message"` and `git push`
  * `git config --global url."https://".insteadOf git://`
- * How to undo a Git commit that was not pushed `git reset --soft HEAD~;`
  
  * Undo the commit but keep all changes staged => `git reset --soft HEAD~;`
  * Undo the commit and unstage the changes => `git reset HEAD~;`
