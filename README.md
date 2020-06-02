@@ -22,6 +22,12 @@ collect all bookmarks and interesting links
  * Undo the commit and unstage the changes => `git reset HEAD~;`
  * Undo the commit and lose all changes => `git reset --hard HEAD~;`
  
+ To cherry-pick all the commits from commit A to commit B (where A is older than B), run:
+ * `git cherry-pick A^..B`
+ 
+ If you want to ignore A itself, run:
+ * `git cherry-pick A..B`
+
 
 ### Useful commands
  * update oh-my-zsh: ```source ~/.zshrc```
