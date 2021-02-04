@@ -41,6 +41,9 @@ collect all bookmarks and interesting links
  ```
  
  ### Python
- * Simple server: `python -m SimpleHTTPServer 4200`
+ `python -m SimpleHTTPServer 4200`
+ 
+ ### Python3
+ `python3 -m http.server 4200`
  
  
