@@ -28,6 +28,9 @@ collect all bookmarks and interesting links
  If you want to ignore A itself, run:
  * `git cherry-pick A..B`
 
+Delete tag:
+`git push --delete origin v1.0`
+
 
 ### Useful commands
  * update oh-my-zsh: ```source ~/.zshrc```
